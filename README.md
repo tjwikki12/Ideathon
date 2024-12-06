@@ -20,9 +20,8 @@ Before running the notebooks, ensure that you have access to Google Colab. You d
 
 To start, you can open the notebooks directly in Google Colab:
 
-- **Web Scraping Notebook** (`ideathon_web_script.ipynb`): [Open in Colab]
-- **Data Analysis Notebook** (`ideathon.ipynb`): [Open in Colab]
-
+- **Web Scraping Notebook** (`ideathon_web_script.ipynb`): Click on [Open in Colab] in the starting of the code directly takes us to the colab
+- **Data Analysis Notebook** (`ideathon.ipynb`): Click on [Open in Colab] in the starting of the code directly takes us to the colab
 ### 2. Run the Web Scraping Notebook
 
 First, run the `ideathon_web_script.ipynb` notebook to scrape data from the target website and save it as a CSV file (`reviews.csv`).
