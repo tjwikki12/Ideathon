@@ -40,7 +40,7 @@ Once the notebook has run successfully, the scraped data will be available as a 
 Once the data has been scraped and saved, you can run the `ideathon.ipynb` notebook to load the CSV file and perform analysis or other processing tasks.
 
 In the `ideathon.ipynb` notebook:
-- Need to load the downloaded file in the colab application `reviews.csv`
+- Need to load the downloaded file in the colab application `reviews.csv`.Navigate to table of content under files option then there you can find the upward arror symbol name upload to session storage and upload the downloaded file
 - Cleans and preprocesses the data (e.g., removing missing values)
 - Performs data analysis and generates summary statistics
   
